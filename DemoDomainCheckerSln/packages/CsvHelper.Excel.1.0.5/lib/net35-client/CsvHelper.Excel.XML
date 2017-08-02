@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CsvHelper.Excel</name>
+    </assembly>
+    <members>
+        <member name="T:CsvHelper.Excel.ExcelParser">
+            <summary>
+            Parses an Excel file.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(System.String)">
+            <summary>
+            Creates a new parser using a new <see cref="T:ClosedXML.Excel.XLWorkbook"/> from the given <paramref name="path"/>.
+            </summary>
+            <param name="path">The path.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(System.String,CsvHelper.Configuration.CsvConfiguration)">
+            <summary>
+            Creates a new parser using a new <see cref="T:ClosedXML.Excel.XLWorkbook"/> from the given <paramref name="path"/> and uses the given <paramref name="configuration"/>.
+            </summary>
+            <param name="path">The path.</param>
+            <param name="configuration">The configuration.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(ClosedXML.Excel.XLWorkbook)">
+            <summary>
+            Creates a new parser using the given <see cref="T:ClosedXML.Excel.XLWorkbook"/>.
+            <remarks>
+            Will attempt to read the data from the first worksheet in the workbook.
+            </remarks>
+            </summary>
+            <param name="workbook">The <see cref="T:ClosedXML.Excel.XLWorkbook"/> with the data.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(ClosedXML.Excel.XLWorkbook,CsvHelper.Configuration.CsvConfiguration)">
+            <summary>
+            Creates a new parser using the given <see cref="T:ClosedXML.Excel.XLWorkbook"/> and <see cref="T:CsvHelper.Configuration.CsvConfiguration"/>.
+            <remarks>
+            Will attempt to read the data from the first worksheet in the workbook.
+            </remarks>
+            </summary>
+            <param name="workbook">The <see cref="T:ClosedXML.Excel.XLWorkbook"/> with the data.</param>
+            <param name="configuration">The configuration.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(ClosedXML.Excel.IXLWorksheet)">
+            <summary>
+            Creates a new parser using the given <see cref="T:ClosedXML.Excel.IXLWorksheet"/>.
+            </summary>
+            <param name="worksheet">The <see cref="T:ClosedXML.Excel.IXLWorksheet"/> with the data.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.#ctor(ClosedXML.Excel.IXLWorksheet,CsvHelper.Configuration.CsvConfiguration)">
+            <summary>
+            Creates a new parser using the given <see cref="T:ClosedXML.Excel.IXLWorksheet"/> and <see cref="T:CsvHelper.Configuration.CsvConfiguration"/>.
+            </summary>
+            <param name="worksheet">The <see cref="T:ClosedXML.Excel.IXLWorksheet"/> with the data.</param>
+            <param name="configuration">The configuration.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.Read">
+            <summary>
+            Reads a record from the Excel file.
+            </summary>
+            <returns>
+            A <see cref="T:String[]"/> of fields for the record read.
+            </returns>
+            <exception cref="T:System.ObjectDisposedException">Thrown if the parser has been disposed.</exception>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.Finalize">
+            <summary>
+            Finalizes an instance of the <see cref="T:CsvHelper.Excel.ExcelParser"/> class.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.Dispose(System.Boolean)">
+            <summary>
+            Releases unmanaged and - optionally - managed resources.
+            </summary>
+            <param name="disposing"><c>true</c> to release both managed and unmanaged resources; <c>false</c> to release only unmanaged resources.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelParser.CheckDisposed">
+            <summary>
+            Checks if the instance has been disposed of.
+            </summary>
+            <exception cref="T:System.ObjectDisposedException"/>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.Configuration">
+            <summary>
+            Gets the configuration.
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.Workbook">
+            <summary>
+            Gets the workbook from which we are reading data.
+            </summary>
+            <value>
+            The workbook.
+            </value>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.FieldCount">
+            <summary>
+            Gets the field count.
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.CharPosition">
+            <summary>
+            Gets the character position that the parser is currently on.
+            <remarks>This feature is unused.</remarks>
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.BytePosition">
+            <summary>
+            Gets the byte position that the parser is currently on.
+            <remarks>This feature is unused.</remarks>
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.Row">
+            <summary>
+            Gets the row of the Excel file that the parser is currently on.
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelParser.RawRecord">
+            <summary>
+            Gets the raw row for the current record that was parsed.
+            </summary>
+        </member>
+        <member name="T:CsvHelper.Excel.ExcelSerializer">
+            <summary>
+            Defines methods used to serialize data into an Excel (2007+) file.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.#ctor(System.String)">
+            <summary>
+            Creates a new serializer using a new <see cref="T:ClosedXML.Excel.XLWorkbook"/> saved to the given <paramref name="path"/>.
+            <remarks>
+            The workbook will not be saved until the serializer is disposed.
+            </remarks>
+            </summary>
+            <param name="path">The path to which to save the workbook.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.#ctor(ClosedXML.Excel.XLWorkbook)">
+            <summary>
+            Creates a new serializer using the given <see cref="T:ClosedXML.Excel.XLWorkbook"/>.
+            <remarks>
+            The <paramref name="workbook"/> will <b><i>not</i></b> be disposed of when the serializer is disposed.
+            The workbook will <b><i>not</i></b> be saved by the serializer.
+            A new worksheet will be added to the workbook.
+            </remarks>
+            </summary>
+            <param name="workbook">The workbook to write the data to.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.#ctor(ClosedXML.Excel.XLWorkbook,CsvHelper.Configuration.CsvConfiguration)">
+            <summary>
+            Creates a new serializer using the given <see cref="T:ClosedXML.Excel.XLWorkbook"/> and <see cref="T:CsvHelper.Configuration.CsvConfiguration"/>.
+            <remarks>
+            The <paramref name="workbook"/> will <b><i>not</i></b> be disposed of when the serializer is disposed.
+            The workbook will <b><i>not</i></b> be saved by the serializer.
+            A new worksheet will be added to the workbook.
+            </remarks>
+            </summary>
+            <param name="workbook">The workbook to write the data to.</param>
+            <param name="configuration">The configuration.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.#ctor(ClosedXML.Excel.IXLWorksheet)">
+            <summary>
+            Creates a new serializer using the given <see cref="T:ClosedXML.Excel.IXLWorksheet"/>.
+            <remarks>
+            The <paramref name="worksheet"/> will <b><i>not</i></b> be disposed of when the serializer is disposed.
+            The workbook will <b><i>not</i></b> be saved by the serializer.
+            </remarks>
+            </summary>
+            <param name="worksheet">The worksheet to write the data to.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.#ctor(ClosedXML.Excel.IXLWorksheet,CsvHelper.Configuration.CsvConfiguration)">
+            <summary>
+            Creates a new serializer using the given <see cref="T:ClosedXML.Excel.IXLWorksheet"/>.
+            <remarks>
+            The <paramref name="worksheet"/> will <b><i>not</i></b> be disposed of when the serializer is disposed.
+            The workbook will <b><i>not</i></b> be saved by the serializer.
+            </remarks>
+            </summary>
+            <param name="worksheet">The worksheet to write the data to.</param>
+            <param name="configuration">The configuration</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.Write(System.String[])">
+            <summary>
+            Writes a record to the Excel file.
+            </summary>
+            <param name="record">The record to write.</param>
+            <exception cref="T:System.ObjectDisposedException">
+            Thrown is the serializer has been disposed.
+            </exception>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.ReplaceHexadecimalSymbols(System.String)">
+            <summary>
+            Replaces the hexadecimal symbols.
+            </summary>
+            <param name="text">The text to replace.</param>
+            <returns>The input</returns>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.Finalize">
+            <summary>
+            Finalizes an instance of the <see cref="T:CsvHelper.Excel.ExcelSerializer"/> class.
+            </summary>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.Dispose(System.Boolean)">
+            <summary>
+            Releases unmanaged and - optionally - managed resources.
+            </summary>
+            <param name="disposing"><c>true</c> to release both managed and unmanaged resources; <c>false</c> to release only unmanaged resources.</param>
+        </member>
+        <member name="M:CsvHelper.Excel.ExcelSerializer.CheckDisposed">
+            <summary>
+            Checks if the instance has been disposed of.
+            </summary>
+            <exception cref="T:System.ObjectDisposedException">
+            Thrown is the serializer has been disposed.
+            </exception>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelSerializer.Configuration">
+            <summary>
+            Gets the configuration.
+            </summary>
+        </member>
+        <member name="P:CsvHelper.Excel.ExcelSerializer.Workbook">
+            <summary>
+            Gets the workbook to which the data is being written.
+            </summary>
+            <value>
+            The workbook.
+            </value>
+        </member>
+    </members>
+</doc>

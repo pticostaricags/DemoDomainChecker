@@ -1,0 +1,71 @@
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.exe.config
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.exe
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.pdb
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ARSoft.Tools.Net.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ClosedXML.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\IPAddressRange.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.Client.Policy.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\WhoisClient.dll
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ARSoft.Tools.Net.xml
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\BouncyCastle.Crypto.pdb
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ClosedXML.xml
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.pdb
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.xml
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.pdb
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.xml
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\WhoisClient.xml
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\obj\Debug\DemoDomainCheckerConsoleApp.exe
+c:\users\eduardofonseca\documents\visual studio 2015\Projects\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\obj\Debug\DemoDomainCheckerConsoleApp.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.exe.config
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\obj\Debug\DemoDomainCheckerConsoleApp.exe
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\obj\Debug\DemoDomainCheckerConsoleApp.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.exe
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DemoDomainCheckerConsoleApp.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ARSoft.Tools.Net.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ClosedXML.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\IPAddressRange.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\WhoisClient.dll
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ARSoft.Tools.Net.xml
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\BouncyCastle.Crypto.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\ClosedXML.xml
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.xml
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.pdb
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\CsvHelper.Excel.xml
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\bin\Debug\WhoisClient.xml
+D:\Eduardo\GIT\DemoDomainChecker\DemoDomainCheckerSln\DemoDomainCheckerConsoleApp\obj\Debug\DemoDomainCheckerConsoleApp.csprojResolveAssemblyReference.cache
